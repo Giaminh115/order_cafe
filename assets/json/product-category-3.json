@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Handmade Granite Computer",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "image": "https://www.thatlangon.com/wp-content/uploads/2021/12/ca-phe-Latte.jpg",
+    "price": [
+      {
+        "size": "s",
+        "price": "5"
+      },
+      {
+        "size": "L",
+        "price": "10"
+      },
+      {
+        "size": "XL",
+        "price": "12"
+      }
+    ],
+    "category": "3",
+    "id": "6"
+  },
+  {
+    "name": "Generic Fresh Gloves",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "image": "https://laz-img-sg.alicdn.com/p/9c9749f4798107402e6e82d4509be8cb.jpg",
+    "price": [
+      {
+        "size": "s",
+        "price": "5"
+      },
+      {
+        "size": "L",
+        "price": "10"
+      }
+    ],
+    "category": "3",
+    "id": "7"
+  },
+  {
+    "name": "Handmade Fresh Towels",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "image": "https://thecoffeefolk.com/wp-content/uploads/2020/10/canva-photo-editor-79.png",
+    "price": [
+      {
+        "size": "s",
+        "price": "5"
+      },
+      {
+        "size": "L",
+        "price": "10"
+      }
+    ],
+    "category": "3",
+    "id": "17"
+  },
+  {
+    "name": "Refined Fresh Fish",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "image": "https://www.beansincup.se/wp-content/uploads/2021/10/Latte-Macchiato-vs-Latte-12-okt-.jpg",
+    "price": [
+      {
+        "size": "s",
+        "price": "5"
+      },
+      {
+        "size": "L",
+        "price": "10"
+      }
+    ],
+    "category": "3",
+    "id": "18"
+  }
+]
